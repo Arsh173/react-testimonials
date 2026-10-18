@@ -27,9 +27,7 @@ A responsive React application that showcases user testimonials through an inter
 
 ## 🌐 Live Demo
 
-🔗 **Coming Soon**
-
-> The project will be deployed on Vercel.
+🔗 https://react-testimonials-seven.vercel.app/
 
 ---
 
